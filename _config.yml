@@ -1,10 +1,10 @@
 title: "DIY with Andrew"
 author: "Andrew Fang"
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi! I'm Andrew Fang, and I write about all kinds of DIY projects based on needs I have encountered in my personal life. I am a master at Googling and this blog serves as an archive of the various tips and tricks I have come across.
+  Hi! I'm Andrew Fang, and I write about all kinds of DIY projects based on needs I have encountered in my personal life. This blog serves as an archive of the various tips and tricks I have come across from my extensive Googling.
 permalink: /:title/
 lang: "en"
-excerpt_separator: "\n\n\n"
+excerpt_separator: "<!--more-->"
 date_format: "%B %d, %Y"
 email: blog@andrewbfang.com
 
@@ -29,11 +29,12 @@ external:                  # shows a footer with social links - for available ic
   - {title: Home, icon: globe, url: "https://andrewbfang.com"}
   - {title: Mail, icon: envelope, url: "mailto:blog@andrewbfang.com"}
   - {title: Github, icon: github, url: "https://github.com/andrewfang"}
+  - {title: LinkedIn, icon: linkedin, url: "https://linkedin.com/in/andrewbfang"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
- disqus_shortname: "afang"    # see https://disqus.com/
-#  isso_domain: ""         # see https://posativ.org/isso/
+#  disqus_shortname: "afang"    # see https://disqus.com/
+  isso_domain: "isso.andrewbfang.com"         # see https://posativ.org/isso/
 
 plugins:
  - jekyll-feed
