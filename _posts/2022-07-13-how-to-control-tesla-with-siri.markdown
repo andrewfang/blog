@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Controlling Tesla with Siri"
+title:  "How to control Tesla with Siri"
 date:   2022-07-13 18:55:42 -0700
 comments: true
 categories: tesla, siri, shortcuts, automation
