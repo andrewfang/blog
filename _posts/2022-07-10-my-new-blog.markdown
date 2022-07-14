@@ -2,6 +2,7 @@
 layout: post
 title:  "My new blog"
 date:   2022-07-10 18:55:42 -0700
+comments: false
 categories: intro
 ---
 
