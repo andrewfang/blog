@@ -50,7 +50,7 @@ Obviously in order to send commands to your car, you're going to need to be logg
 Now, putting it all together, we can create a shortcut like this:
  
 :-------------------------:|:-------------------------:
-![]({{site.assets_dir}}/2022-07-13/shortcut_trunk1.png)  |  ![]({{site.assets_dir}}/2022-07-13/shortcut_trunk2.png)
+![]({{site.assets_dir}}/2022-07-13/shortcut_trunk1.jpeg)  |  ![]({{site.assets_dir}}/2022-07-13/shortcut_trunk2.jpeg)
 
 (If you just want the shortcut without an explanation of how it works, skip to the bottom for the download link.)
 
@@ -59,7 +59,7 @@ In this example, we're asking the car to open the rear trunk. This particular co
 One more thing. We'll need to give the shortcut permissions. Hit the (i) at the bottom of the Shortcut edit page and make sure it has all the permissions like so:
 
 :-------------------------:|:-------------------------:
-![]({{site.assets_dir}}/2022-07-13/shortcut_trunk3.jpeg)  |  ![]({{site.assets_dir}}/2022-07-13/shortcut_trunk4.png)
+![]({{site.assets_dir}}/2022-07-13/shortcut_trunk3.jpeg)  |  ![]({{site.assets_dir}}/2022-07-13/shortcut_trunk4.jpeg)
 
 Now, when you play the Shortcut, your action should be carried out and the request should be sent to your car. Even better, you can "Hey Siri ... Open Trunk" (or whatever you call your shortcut), and it'll perform that same request.
 
