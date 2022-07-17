@@ -1,0 +1,1 @@
+<sub><sup><em>Disclosure: This blog is a participant in the Amazon Services LLC Associates Program as well as other affiliate programs, designed to provide a means for me to earn fees by linking to Amazon and affiliated sites at no extra cost to you. Please see the full [disclosure](https://andrewbfang.com/affiliateDisclosure.html) for more details.</em></sup></sub>

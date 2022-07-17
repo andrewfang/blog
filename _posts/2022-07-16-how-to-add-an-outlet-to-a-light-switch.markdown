@@ -10,17 +10,19 @@ description: Changing out a light switch for a combination outlet + switch
 {{ page.description }}
 <!--more-->
 
+{% include affiliate.markdown %}
+
 ## Time needed
 + \< 20 minutes
 
 ## Materials
 + Phillips-head and/or flathead screwdriver(s)
-+ Needle nose plier (maybe)
-+ Voltage tester (maybe)
-+ Combination switch and outlet like [this](https://www.homedepot.com/p/Leviton-15-Amp-Tamper-Resistant-Combination-Switch-and-Outlet-White-R62-T5225-0WS/202035011) or [this](https://www.homedepot.com/p/Leviton-Decora-15-Amp-Tamper-Resistant-Combo-Switch-and-Outlet-White-R62-T5625-0WS/202027001)
++ [Combination switch and outlet](https://amzn.to/3PwcvR9)
++ [Needle nose plier](https://amzn.to/3cah9FU) (optional, but helpful)
++ [Voltage tester](https://amzn.to/3IKr80R) (optional, but helpful)
 
 ## The story
-Ever wish you had an outlet somewhere? I did — I wanted to put my vacuum cleaner in my closet, and have it be able to charge while it was in there. Sure, I could call an electrician to lay new wiring, but who knows how much that would cost. Fortunately for me, I have an light switch in my closet, so I searched the web for a way to reuse that, and I came across the combination switch and outlet.
+Ever wish you had an outlet somewhere far from your existing outlets? In my case, I wanted to put my vacuum cleaner in the closet, and have it be able to charge while it was in there. Sure, I could call an electrician to lay new wiring, but who knows how much that would cost. (Or I could run an extension cord in, but that ruins the aesthetic of the house). Fortunately for me, I have an light switch in my closet, so I searched the web for a way to leverage that, and I came across the combination switch and outlet.
 
 ![Combination switch and outlet]({{site.assets_dir}}/2022-07-16/combination_switch_outlet.png)
 
@@ -48,7 +50,7 @@ Ground --> Green screw
 If you have two hot wires and want to this same thing, but on separate feeds, start watching at [6:21](https://youtu.be/gJpS0-5JQgU?t=381).
 
 Other ways of wiring this together are:
-+ The switch controls the outlet (switch flipped off == outlet off): start watching at [2:48](https://youtu.be/gJpS0-5JQgU?t=168).
++ The switch controls the outlet (switch flipped off == outlet off): start watching at [2:48](https://youtu.be/gJpS0-5JQgU?t=168). To be honest though, if you want to do this, I'd suggest just buying a switch like [this one from Amazon](https://amzn.to/3PwcvR9) or [this one from Kasa](https://amzn.to/3PwcvR9), and plug that into the outlet. You'll be able to turn on/off the thing plugged into the outlet manually, with your phone, and with your smart home.
 + The switch controls both the light and the outlet (switch flipped off == light off AND outlet off), start watching at [5:05](https://youtu.be/gJpS0-5JQgU?t=305)
 
 Once you have the wires connected to this new combination outlet + switch, screw this back into the wall and reattach the wall plate.
@@ -56,3 +58,5 @@ Once you have the wires connected to this new combination outlet + switch, screw
 Celebrate!
 
 ![Installed vacuum and outlet]({{site.assets_dir}}/2022-07-16/completed.png)
+
+<div id="amzn-assoc-ad-b7678f07-35c9-4e5c-bfd4-ff67759f048f"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=b7678f07-35c9-4e5c-bfd4-ff67759f048f"></script>
