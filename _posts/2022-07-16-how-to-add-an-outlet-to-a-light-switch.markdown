@@ -100,7 +100,7 @@ description: Changing out a light switch for a combination outlet and switch
 
 ## Materials
 + Phillips-head and/or flathead screwdriver(s)
-+ [Combination switch and outlet](https://amzn.to/3PwcvR9)
++ [Combination switch and outlet](https://amzn.to/3PiQ5Ty)
 + [Needle nose plier](https://amzn.to/3cah9FU) (optional, but helpful)
 + [Voltage tester](https://amzn.to/3IKr80R) (optional, but helpful)
 
@@ -143,7 +143,7 @@ Ground --> Green screw
 If you have two hot wires and want to this same thing, but on separate feeds, start watching at [6:21](https://youtu.be/gJpS0-5JQgU?t=381).
 
 Other ways of wiring this together are:
-+ The switch controls the outlet (switch flipped off == outlet off): start watching at [2:48](https://youtu.be/gJpS0-5JQgU?t=168). To be honest though, if you want to do this, I'd suggest just buying a switch like [this one from Amazon](https://amzn.to/3PwcvR9) or [this one from Kasa](https://amzn.to/3PwcvR9), and plug that into the outlet. You'll be able to turn on/off the thing plugged into the outlet manually, with your phone, and with your smart home.
++ The switch controls the outlet (switch flipped off == outlet off): start watching at [2:48](https://youtu.be/gJpS0-5JQgU?t=168). To be honest though, if you want to do this, I'd suggest just buying a switch like [this one from Amazon](https://amzn.to/3PwcvR9) or [this one from Kasa](https://amzn.to/3vj58oD), and plug that into the outlet. You'll be able to turn on/off the thing plugged into the outlet manually, with your phone, and with your smart home.
 + The switch controls both the light and the outlet (switch flipped off == light off AND outlet off), start watching at [5:05](https://youtu.be/gJpS0-5JQgU?t=305)
 
 Once you have the wires connected to this new combination outlet and switch, screw this back into the wall and reattach the wall plate.
