@@ -7,6 +7,55 @@ categories: tesla, siri, shortcuts, automation
 description: Performing Tesla controls (such as opening the trunk) with Siri via Shortcuts
 ---
 
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "HowTo",
+    "name": "{{ page.title }}",
+    "image": {
+      "@type": "ImageObject",
+      "url": "{{site.assets_dir}}/2022-07-13/tesla_widget.png"
+    },
+    "estimatedCost": {
+      "@type": "MonetaryAmount",
+      "currency": "USD",
+      "value": "0"
+    },
+    "tool": [
+      {
+        "@type": "HowToTool",
+        "name": "iPhone"
+      }, {
+        "@type": "HowToTool",
+        "name": "Tesla"
+      }
+    ],
+    "step": [
+      {
+        "@type": "HowToStep",
+        "name": "Authentication",
+        "url": "/#authentication",
+        "itemListElement": [{
+          "@type": "HowToDirection",
+          "text": "Provide authentication via a refresh token."
+        }]
+      }, {
+        "@type": "HowToStep",
+        "name": "Writing the Shortcut",
+        "url": "/#writing-the-shortcut",
+        "itemListElement": [{
+          "@type": "HowToDirection",
+          "text": "Write / download the shortcut."
+        }],
+        "image": {
+          "@type": "ImageObject",
+          "url": "{{site.assets_dir}}/2022-07-13/shortcut_trunk2.jpeg"
+        }
+      }],
+    "totalTime": "PT10M"
+    }
+  </script>
+
 {{ page.description }}
 <!--more-->
 
@@ -19,6 +68,7 @@ description: Performing Tesla controls (such as opening the trunk) with Siri via
 + A Tesla car ([Don't have one?](https://ts.la/andrew11282))
 
 ## The story
+
 One of the features that's missing from the default [Tesla](https://apps.apple.com/us/app/tesla/id582007913) app is the ability to make requests to the car via Siri. When I'm walking to the car with a cart full of groceries, I want to easily open the trunk without having to unlock my phone, open the Tesla app, then tap on the trunk button.
 
 As of late 2021, Tesla's app now allows you to configure 4 quick actions, which also show up on the widget. These controls can be customized by long pressing on one of the four icons in the app. As you can see here, I've set mine to lock / hvac / trunk / frunk.
@@ -45,7 +95,11 @@ Here's a blurb from the [tesla-info blog](https://tesla-info.com/tesla-token.php
 
 Assuming we trust them enough, we can use the tesla-info APIs to ask our car to perform specific actions. The different commands are detailed in their [automation blog post](https://tesla-info.com/guide/tesla-automation.php).
 
+### Authentication
+
 Obviously in order to send commands to your car, you're going to need to be logged in. Recently, Tesla updated their 3rd party authentication to go through their SSO (single sign on) portal. For Shortcuts, I've found Kim Hansen's [Auth app for Tesla](https://apps.apple.com/app/id1552058613) to be exactly what I need. After downloading the app, sign in with your Tesla credentials and the app will store a refresh token and an access token. Now, instead of needing to pass your Tesla username and password around, you can simply use these tokens. In fact, this app exposes itself to Shortcuts, so you don't even need to worry about anything, just launch the app once, sign in, generate your token, and then let Shortcuts handle everything else.
+
+### Writing the Shortcut
 
 Now, putting it all together, we can create a shortcut like this:
  
@@ -64,4 +118,5 @@ One more thing. We'll need to give the shortcut permissions. Hit the (i) at the 
 Now, when you play the Shortcut, your action should be carried out and the request should be sent to your car. Even better, you can "Hey Siri ... Open Trunk" (or whatever you call your shortcut), and it'll perform that same request.
 
 ## Download
+
 [Get the shortcut](https://www.icloud.com/shortcuts/3bdbb03cd79e44b686b1636e1f9b894c) & give it a try!
