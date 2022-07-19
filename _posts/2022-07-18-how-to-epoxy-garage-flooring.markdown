@@ -208,11 +208,15 @@ description: Painting on a layer of epoxy to the floor of a garage to make it pr
 
 ## The story
 
-Ever seen those speckled coated garage floorings in really nice homes? Not only are they more aesthetic, but coated garage floors are also easier to clean. To have this done professionally would cost thousands of dollars, but there are products like the [Rust-Oleum EpoxyShield Garage Floor Coating Kit](https://amzn.to/3O9vfVq), which is what I used, that are much more affordable. The difference between DIY and professional coatings is usually how good it looks and how long they last. When done right, the look should be similar. I've yet to time-test the durability of the DIY solution, so keep that in mind when deciding whether to do it yourself. I ultimately chose to go down the DIY route and hope that the coating will last for years to come.
+Ever seen those speckled coated garage floorings in really nice homes? 
+
+![completed floor]({{site.assets_dir}}/2022-07-18/epoxy_finished.jpg)
+
+Not only are they more aesthetic, but coated garage floors are also easier to clean. To have this done professionally would cost thousands of dollars, but there are products like the [Rust-Oleum EpoxyShield Garage Floor Coating Kit](https://amzn.to/3O9vfVq), which is what I used, that are much more affordable. The difference between DIY and professional coatings is usually how good it looks and how long they last. When done right, the look should be similar. I've yet to time-test the durability of the DIY solution, so keep that in mind when deciding whether to do it yourself. I ultimately chose to go down the DIY route and hope that the coating will last for years to come.
 
 ### Prep and clean the floor
 
-![cleaned floor]({{site.assets_dir}}/2022-07-18/step1-prep.jpg)
+![step 1 - prep]({{site.assets_dir}}/2022-07-18/step1-prep.jpg)
 
 This is the hardest and most time consuming part. First, empty the garage of everything so that every square inch of the flooring is accessible. I did this project right before I moved in, to take advantage of the opportunity when the garage would be empty. After the concrete floor is fully exposed, sweep thoroughly with a broom or a [push broom](https://amzn.to/3B2wz9T). Next, wash the flooring. A hose might be enough, but I would recommend using a [pressure washer](https://amzn.to/3IJptbS), especially if the garage has seen it's share of action. If there are oil spots or other heavy stains, you might want to use some [concrete cleaning solution](https://amzn.to/3IJdHyr). Pour the solution onto the stain either as is (or diluted if the stain is light), and let is soak for around 20 minutes, then scrub vigorously with a [wire brush](https://amzn.to/3uTBTsb). Scrape off any other gunk that may be on the concrete. Rinse off the cleaner, and use the [long handled squeegee](https://amzn.to/3cn8cJF) to push the water out of the garage.
 
@@ -224,7 +228,7 @@ Wait 24 hours.
 
 ### Repair
 
-![cleaned floor]({{site.assets_dir}}/2022-07-18/step2-repair.jpg)
+![step 2 - repair cracks]({{site.assets_dir}}/2022-07-18/step2-repair.jpg)
 
 This step is only necessary if you have cracks in your concrete. I skipped this step, but here are some insights based on some videos I've watched.
 
@@ -234,7 +238,7 @@ Wait 8 hours.
 
 ### Apply Primer
 
-![cleaned floor]({{site.assets_dir}}/2022-07-18/step3-primer.jpg)
+![step 3 - primer]({{site.assets_dir}}/2022-07-18/step3-primer.jpg)
 
 This step is only necessary if your garage floor was previously coated and you're not working with bare concrete. Again, I skipped this step, but here are some insights.
 
@@ -246,7 +250,7 @@ Wait 6 hours.
 
 ### Apply Epoxy
 
-![cleaned floor]({{site.assets_dir}}/2022-07-18/step4-epoxy.jpg)
+![step 4 - apply epoxy]({{site.assets_dir}}/2022-07-18/step4-epoxy.jpg)
 
 If you skipped the primer step above, make sure you use [painter's tape](https://amzn.to/3Pk7wn0) to tape up any areas of the wall that touch areas of concrete that you will be painting.
 
@@ -256,7 +260,7 @@ Wearing protective gloves, mix both sides of the pouch provided in the [kit](htt
 
 Wait 8-12 hours before foot traffic, 1-2 days before vehicle traffic.
 
-![cleaned floor]({{site.assets_dir}}/2022-07-18/epoxy_finished.jpg)
+![completed floor]({{site.assets_dir}}/2022-07-18/epoxy_finished.jpg)
 
 
 <div id="amzn-assoc-ad-c297f70c-2f23-4024-951a-78d6540cc89d"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=c297f70c-2f23-4024-951a-78d6540cc89d"></script>
