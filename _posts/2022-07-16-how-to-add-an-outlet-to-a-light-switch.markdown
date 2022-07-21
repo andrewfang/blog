@@ -7,6 +7,9 @@ categories: electrical, outlet, switch
 description: Changing out a light switch for a combination outlet and switch
 ---
 
+{{ page.description }}
+<!--more-->
+
 <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -89,9 +92,6 @@ description: Changing out a light switch for a combination outlet and switch
     "totalTime": "PT20M"
     }
   </script>
-
-{{ page.description }}
-<!--more-->
 
 {% include affiliate.markdown %}
 

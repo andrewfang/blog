@@ -7,6 +7,9 @@ categories: tesla, siri, shortcuts, automation
 description: Performing Tesla controls (such as opening the trunk) with Siri via Shortcuts
 ---
 
+{{ page.description }}
+<!--more-->
+
 <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -55,9 +58,6 @@ description: Performing Tesla controls (such as opening the trunk) with Siri via
     "totalTime": "PT10M"
     }
   </script>
-
-{{ page.description }}
-<!--more-->
 
 ## Time needed
 + \< 10 minutes (assuming you're familiar with how Shortcuts work)

@@ -7,6 +7,9 @@ categories: epoxy, garage floor, painting
 description: Painting on a layer of epoxy to the floor of a garage to make it pretty and easy to clean
 ---
 
+{{ page.description }}
+<!--more-->
+
 <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -173,9 +176,6 @@ description: Painting on a layer of epoxy to the floor of a garage to make it pr
     "totalTime": "P4D"
     }
   </script>
-
-{{ page.description }}
-<!--more-->
 
 {% include affiliate.markdown %}
 
