@@ -262,5 +262,4 @@ Wait 8-12 hours before foot traffic, 1-2 days before vehicle traffic.
 
 ![completed floor]({{site.assets_dir}}/2022-07-18/epoxy_finished.jpg)
 
-
-<div id="amzn-assoc-ad-c297f70c-2f23-4024-951a-78d6540cc89d"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=c297f70c-2f23-4024-951a-78d6540cc89d"></script>
+{% include ad.html %}

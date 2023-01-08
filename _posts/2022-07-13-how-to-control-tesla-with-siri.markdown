@@ -125,4 +125,4 @@ Now, when you play the Shortcut, your action should be carried out and the reque
 
 [Get the shortcut](https://www.icloud.com/shortcuts/3bdbb03cd79e44b686b1636e1f9b894c) & give it a try!
 
-<div id="amzn-assoc-ad-7faf9c20-cca0-4ec1-b6ec-98a3c0c24342"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=7faf9c20-cca0-4ec1-b6ec-98a3c0c24342"></script>
+{% include ad.html %}
