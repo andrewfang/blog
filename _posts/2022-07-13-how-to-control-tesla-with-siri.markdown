@@ -71,7 +71,7 @@ description: Performing Tesla controls (such as opening the trunk) with Siri via
 
 ## The story
 
-> If you have Homebridge or are interested in another (more reliable, at least for me) method of controlling your Tesla with siri, see [this post]({% link _posts/2023-01-03-how-to-control-tesla-with-siri-homebridge.markdown %}).
+> If you have Homebridge or are interested in another (more reliable, at least for me) method of controlling your Tesla with siri, see [this post](https://andrewbfang.com/blog/how-to-control-tesla-with-siri-homebridge/).
 
 One of the features that's missing from the default [Tesla](https://apps.apple.com/us/app/tesla/id582007913) app is the ability to make requests to the car via Siri. When I'm walking to the car with a cart full of groceries, I want to easily open the trunk without having to unlock my phone, open the Tesla app, then tap on the trunk button.
 

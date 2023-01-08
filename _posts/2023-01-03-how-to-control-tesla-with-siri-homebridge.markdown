@@ -71,7 +71,7 @@ description: Performing Tesla controls (such as opening the trunk) with Siri via
 
 ## The story
 
-The story is the same as my [previous post]({% link _posts/2022-07-13-how-to-control-tesla-with-siri.markdown %}). I just want to control my car with Siri -- either from my phone or (ideally) from my watch. The method with Shortcuts had its issues -- for me it was often unreliable, and it never worked from my watch. After a while, I just stopped using it.
+The story is the same as my [previous post](https://andrewbfang.com/blog/how-to-control-tesla-with-siri/). I just want to control my car with Siri -- either from my phone or (ideally) from my watch. The method with Shortcuts had its issues -- for me it was often unreliable, and it never worked from my watch. After a while, I just stopped using it.
 
 Earlier last year, I dug out my Raspberry Pi and installed [Homebridge](https://homebridge.io) to tie all my smart home devices together. Well, it turns out the creator of Homebridge wrote a [Tesla plugin](https://www.npmjs.com/package/homebridge-tesla) to make Teslas appear as smart home accessories. This exposes various Tesla controls (locking/unlocking the car, opening/closing trunk, opening the frunk) as Home controls, which are understood by Siri. This method works _a lot_ better than the Shortcuts method, and I've been pretty impressed. If you're wondering, your car doesn't need to be connected to your home wifi as long as you have a hub (for iOS 16+ this requires an [Apple TV](https://amzn.to/3XdxUlP) or a [Homepod](https://www.apple.com/homepod-mini/)).
 
