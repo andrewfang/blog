@@ -59,6 +59,8 @@ description: Performing Tesla controls (such as opening the trunk) with Siri via
     }
   </script>
 
+{% include affiliate.markdown %}
+
 ## Time needed
 + \< 10 minutes (assuming you're familiar with how Shortcuts work)
 + \< 5 minutes if you want to skip over the story and go straight to the bottom to download the Shortcut

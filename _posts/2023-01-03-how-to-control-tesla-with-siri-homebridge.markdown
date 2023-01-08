@@ -58,6 +58,8 @@ description: Performing Tesla controls (such as opening the trunk) with Siri via
     }
   </script>
 
+{% include affiliate.markdown %}
+
 ## Time needed
 + \< 10 minutes (if you already have a running instance of Homebridge)
 + Otherwise, 1 hour or more to include the time it takes to set up Homebridge
@@ -105,8 +107,8 @@ Now, just restart Homebridge and after some initial configuration, you should se
 
 Now, you should have something like this!
 
-:-------------------------:|:-------------------------:
-![tesla Apple home]({{site.assets_dir}}/2023-01-03/tesla-home.jpeg) |
+
+![tesla Apple home]({{site.assets_dir}}/2023-01-03/tesla-home.jpeg)
 
 
 Also mentioned in the [README](https://github.com/nfarina/homebridge-tesla), you'll get the default services enabled:
