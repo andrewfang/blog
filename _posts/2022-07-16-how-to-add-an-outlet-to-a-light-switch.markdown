@@ -152,4 +152,4 @@ Celebrate!
 
 ![Installed vacuum and outlet]({{site.assets_dir}}/2022-07-16/completed.png)
 
-{% include ad.html %}
+<div id="amzn-assoc-ad-b7678f07-35c9-4e5c-bfd4-ff67759f048f"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=b7678f07-35c9-4e5c-bfd4-ff67759f048f"></script>

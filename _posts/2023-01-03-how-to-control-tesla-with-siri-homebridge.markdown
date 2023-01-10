@@ -130,4 +130,4 @@ You can also configure the plugin to enable these additional services:
 + "Turn on the starter" (enables keyless driving)
 + "Open HomeLink" (opens your garage or other door via HomeLink in supported vehicles)
 
-{% include ad.html %}
+<div id="amzn-assoc-ad-7faf9c20-cca0-4ec1-b6ec-98a3c0c24342"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=7faf9c20-cca0-4ec1-b6ec-98a3c0c24342"></script>
